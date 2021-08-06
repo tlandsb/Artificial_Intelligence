@@ -1,5 +1,5 @@
 ## Small business AI program that assigns 'emotional' states to agents based on an event stream.
-## Final project for 'CSC 594 - Topis in Artifical Intelligence', completed under the direction of Dr. Clark Elliot
+## Final project for 'CSC 594 - Topis in Artifical Intelligence'
 ## Spring 2021
 
 import random
